@@ -1,0 +1,27 @@
+
+  body {
+    background-color: #B7D3DF;
+  }
+
+  hr {
+    width: 5%;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: dotted;
+    border-left-style: none;
+    border-width: 5px;
+    border-color: grey;
+  }
+
+  h3
+  {
+  color: rebeccapurple;
+  }
+
+h1{
+  color: #4C0033;
+}
+
+.ram {
+  text-align: justify;
+}
